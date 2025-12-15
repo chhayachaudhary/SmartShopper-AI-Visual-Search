@@ -1,0 +1,12 @@
+streamlit
+beautifulsoup4
+requests
+textblob
+pandas
+Pillow
+plotly
+torch
+ftfy
+transformers
+scikit-learn
+numpy
